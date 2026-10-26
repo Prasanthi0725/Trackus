@@ -1,0 +1,9 @@
+
+streamlit
+streamlit-folium
+streamlit-autorefresh
+folium
+pandas
+matplotlib
+joblib
+scikit-learn
